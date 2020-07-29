@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- 设置一个黑色边框 -->
+<!--    <stroke android:width="2px" android:color="#000000"/>-->
+    <!-- 渐变 -->
+    <gradient
+        android:angle="270"
+        android:endColor="#C0C0C0"
+        android:startColor="#FCD209" />
+    <!-- 设置一下边距,让空间大一点 -->
+<!--    <padding-->
+<!--        android:left="0dp"-->
+<!--        android:top="0dp"-->
+<!--        android:right="0dp"-->
+<!--        android:bottom="0dp"/>-->
+
+</shape> 
